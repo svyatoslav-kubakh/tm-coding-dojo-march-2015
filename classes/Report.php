@@ -32,9 +32,9 @@ class Report
 
 	public function __construct($size, Log $log)
 	{
-		$this->fieldSize = $size  ;
+		$this->fieldSize  = $size  ;
 		$this->tries      = 0      ;
-		$this->fieldMap  = []     ;
+		$this->fieldMap   = []     ;
 		$this->results    = []     ;
 		$this->log        = $log   ;
 	}
