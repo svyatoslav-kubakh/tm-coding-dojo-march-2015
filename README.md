@@ -1,6 +1,8 @@
 # tm-coding-dojo-march-2015
 ![Template Monster Coding Dojo](https://raw.githubusercontent.com/svyatoslav-kubakh/tm-coding-dojo-march-2015/master/logo.png)
 
+Example:
+
 ```bash
 ksar@ksar-laptop:~/Work/dojo$ php placing.php 4
 [2015-04-18 09:20:43] INFO: Max execution time: 60 seconds
